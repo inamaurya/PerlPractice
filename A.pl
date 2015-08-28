@@ -10,5 +10,7 @@ my @arrays = ('ajay','kumar','maurya');
 
 my $rec = join(':', @arrays);
 
- print "$rec"; 
+ print "$rec\n"; 
+ 
+ print "End\n";
 
